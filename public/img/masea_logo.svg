@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 121.875 25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #424143;
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="0.5" x2="2.438" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.543" stop-color="#ffca07"/>
+      <stop offset="0.652" stop-color="#fec50a"/>
+      <stop offset="0.783" stop-color="#fcb614"/>
+      <stop offset="0.926" stop-color="#f89e24"/>
+      <stop offset="0.979" stop-color="#f6932b"/>
+    </linearGradient>
+  </defs>
+  <g id="masea_logo" transform="translate(-2.8 -14)">
+    <path id="Path_1" data-name="Path 1" class="cls-1" d="M128.5,41.137h8.277L132.639,32.1Z" transform="translate(-19.534 -2.813)"/>
+    <path id="Path_2" data-name="Path 2" class="cls-2" d="M81.43,23.882c-1.689-1.014-3.125-1.858-3.125-3.209A2.144,2.144,0,0,1,80.67,18.73c1.858,0,3.209,1.1,4.561,1.943L87.68,16.7A10.612,10.612,0,0,0,80.839,14c-5.152,0-7.517,3.378-7.517,6.672,0,3.378,2.7,5.49,6.419,7.517,2.28,1.267,4.392,1.774,4.392,3.8,0,1.014-1.1,1.943-2.7,1.943a10.02,10.02,0,0,1-6-2.365L72.9,36.044A13.881,13.881,0,0,0,81.177,39c5.152,0,7.939-3.632,7.939-7.095C89.116,27.767,85.907,26.584,81.43,23.882Z" transform="translate(-10.894 0)"/>
+    <path id="Path_3" data-name="Path 3" class="cls-2" d="M99.4,14.8h13.936v4.983h-8.784v4.223h7.264v4.983h-7.264V33.55h8.784v4.983H99.4Z" transform="translate(-15.012 -0.124)"/>
+    <path id="Path_4" data-name="Path 4" class="cls-2" d="M131.271,14.7,119.7,38.433h5.49l6.081-13.007h0l6.081,13.007h5.49Z" transform="translate(-18.167 -0.109)"/>
+    <path id="Path_5" data-name="Path 5" class="cls-2" d="M53.871,14.7,42.3,38.349h5.49l6.081-12.922h0l6.081,12.922h5.49Z" transform="translate(-6.139 -0.109)"/>
+    <path id="Path_6" data-name="Path 6" class="cls-2" d="M18.425,29.227,10.908,14.7,2.8,38.349H8.121l3.716-10.98c.169.338,6.588,11.571,6.588,11.571s6.419-11.318,6.588-11.571l3.716,10.98H34.05L25.942,14.7Z" transform="translate(0 -0.109)"/>
+  </g>
+</svg>
